@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "newArchEnabled": true,
+    "name": "restoran_kafe_uygulamasi_reactnative",
+    "slug": "restoran_kafe_uygulamasi_reactnative",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/start.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/start.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
